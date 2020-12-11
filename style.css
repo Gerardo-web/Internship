@@ -1,0 +1,56 @@
+*{
+  margin:10;
+  padding: 0;
+  box-sizing: content-box;
+}
+
+.grad1 {
+  height: 200px;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
+html, body{
+  height:100%;
+}
+
+body{
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+h1{
+  font-size: 50px;
+}
+
+header{
+  padding: 50px 0;
+  text-align: center;
+}
+
+.container{
+
+}
+
+.image{
+  align-items: center;
+  height: 550px;
+  width: 550px;
+}
+
+.image2{
+  align-items: center;
+  height: 550px;
+  width: 550px;
+  border-radius: 5
+}
+
+.image3{
+  align-items: center;
+  height: 550px;
+  width: 550px;
+}
+
+
+.product-iteration {
+
+}
